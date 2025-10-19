@@ -36,8 +36,8 @@ Currently honing full-stack web apps & open-source contributions.
 [![Avdhut’s Holopin board](https://holopin.me/avdhut400)](https://holopin.io/@avdhut400)
 
 ## 🚀 Featured Projects  
-- [IndeHaven](https://github.com/avdhut400/IndeHaven.git) — brief one-liner describing what it does  
-- [Movie](https://github.com/avdhut400/Movie.git) — brief one-liner   
+- [IndeHaven](https://github.com/avdhut400/IndeHaven.git) — IndeHaven is a feature-rich property rental platform created for the Indian audience.
+- [Movie](https://github.com/avdhut400/Movie.git) — Welcome to Movie, a sleek and user-friendly web application that brings the world of cinema to your fingertips. Discover trending movies, check ratings, and explore details—all in one place.
 <!-- Choose 2-4 of your best repos -->
 
 ## 📫 Connect with Me  
