@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 <!--
-**avdhut400/avdhut400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-green?style=for-the-badge)](https://hacktoberfest.com/participants/avdhut400)
+[![An image of @avdhut400's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avdhut400)](https://holopin.io/@avdhut400)
 
 -->
