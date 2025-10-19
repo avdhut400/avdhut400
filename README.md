@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Avdhut+Magar;Full+Stack+Developer+💻;Open+Source+Contributor+🚀;Tech+Enthusiast+🌐" />
 </p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Avdhut+Magar;Full+Stack+Developer+💻;Open+Source+Contributor+🚀" />
-</p>
-
 A passionate Software Developer from Pimpri Pune, Maharashtra, India 🇮🇳  
 Currently honing full-stack web apps & open-source contributions.
 
