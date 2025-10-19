@@ -24,10 +24,6 @@ Currently honing full-stack web apps & open-source contributions.
 ## 🪩 Badge Board  
 [![Avdhut’s Holopin board](https://holopin.me/avdhut400)](https://holopin.io/@avdhut400)
 
-## 📈 GitHub Stats  
-[![Avdhut’s GitHub stats](https://github-readme-stats.vercel.app/api?username=avdhut400&show_icons=true&theme=radical)](https://github.com/avdhut400)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avdhut400&layout=compact&theme=radical)](https://github.com/avdhut400)
-
 ## 🚀 Featured Projects  
 - [IndeHaven](https://github.com/avdhut400/IndeHaven.git) — brief one-liner describing what it does  
 - [Movie](https://github.com/avdhut400/Movie.git) — brief one-liner   
