@@ -39,5 +39,3 @@ Currently honing full-stack web apps & open-source contributions.
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/avdhut-magar-94088333b/?originalSubdomain=in)   
 <!-- Add other social links if you like: Twitter, Dev.to, etc. -->
-
-⚡ Fun fact: I love solving coding challenges and exploring new tech every weekend!  
