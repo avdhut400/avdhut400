@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Avdhut+Magar;Full+Stack+Developer+💻;Open+Source+Contributor+🚀" />
+</p>
+
 # Hi there 👋, I’m **Avdhut Magar**  
 A passionate Software Developer from Pimpri Pune, Maharashtra, India 🇮🇳  
 Currently honing full-stack web apps & open-source contributions.
