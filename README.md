@@ -112,8 +112,6 @@ const avdhut = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=avdhut400&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&icon_color=06B6D4&text_color=E2E8F0&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avdhut400&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&text_color=E2E8F0" height="165"/>
 
 <br/>
 
