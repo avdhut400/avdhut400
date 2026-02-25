@@ -113,15 +113,6 @@ const avdhut = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=avdhut400&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&icon_color=06B6D4&text_color=E2E8F0&count_private=true&hide=contribs" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avdhut400&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&text_color=E2E8F0" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avdhut400&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=7C3AED&fire=F59E0B&currStreakLabel=06B6D4" width="70%"/>
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avdhut400&bg_color=0D0D1A&color=7C3AED&line=06B6D4&point=F59E0B&area=true&hide_border=true" width="100%"/>
 
 </div>
