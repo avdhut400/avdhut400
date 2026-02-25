@@ -125,8 +125,6 @@ const avdhut = {
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-avdhutmagar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/avdhutmagar/)
 
-<img src="https://leetcard.jacoblin.cool/avdhutmagar?theme=dark&font=Fira+Code&border=0&radius=8&bgcolor=0D0D1A" width="70%"/>
-
 </div>
 
 ---
