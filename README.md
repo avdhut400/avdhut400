@@ -37,12 +37,14 @@ const avdhut = {
 
 <div align="center">
 
-
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -111,7 +113,28 @@ const avdhut = {
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=avdhut400&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&icon_color=06B6D4&text_color=E2E8F0&count_private=true&hide=contribs" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avdhut400&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&text_color=E2E8F0" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avdhut400&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=7C3AED&fire=F59E0B&currStreakLabel=06B6D4" width="70%"/>
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avdhut400&bg_color=0D0D1A&color=7C3AED&line=06B6D4&point=F59E0B&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-avdhutmagar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/avdhutmagar/)
+
+<img src="https://leetcard.jacoblin.cool/avdhutmagar?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=8&bgcolor=0D0D1A" width="70%"/>
 
 </div>
 
