@@ -25,7 +25,7 @@ const avdhut = {
   role     : "Full-Stack Web Developer",
   stack    : ["React", "Node.js", "Express", "MongoDB", "MySQL"],
   passion  : "Open Source & Community Building",
-  events   : ["GSSoC 2025 🌐", "Hacktoberfest 🎃"],
+  events   : ["GSSoC 2025 🌐", "Hacktoberfest 🎃, ECWoC 26"],
   currently: "Building scalable web apps & contributing to open source",
   funFact  : "I debug with console.log and I'm proud of it 😄"
 };
