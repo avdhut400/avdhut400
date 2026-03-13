@@ -21,8 +21,6 @@
 
 ```javascript
 const avdhut = {
-  location : "Pimpri, Pune — Maharashtra, India 🇮🇳",
-  role     : "Full-Stack Web Developer",
   stack    : ["React", "Node.js", "Express", "MongoDB", "MySQL"],
   passion  : "Open Source & Community Building",
   events   : ["GSSoC 2025 🌐", "Hacktoberfest 🎃, ECWoC'26"],
