@@ -108,16 +108,6 @@ const avdhut = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=avdhut400&bg_color=0D0D1A&color=7C3AED&line=06B6D4&point=F59E0B&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 ## 🧩 LeetCode Stats
 
 <div align="center">
