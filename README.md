@@ -146,7 +146,7 @@ const avdhut = {
 
 <br/>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"First, solve the problem. Then, write the code."*  —  John Johnson
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer&animation=fadeIn" width="100%"/>
 
