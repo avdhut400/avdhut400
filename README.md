@@ -109,14 +109,6 @@ const avdhut = {
 
 ---
 
-## 🧩 LeetCode Stats
-
-<div align="center">
-  
-[![LeetCode](https://img.shields.io/badge/LeetCode-avdhutmagar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/avdhutmagar/)
-
-</div>
-
 ---
 
 ## 🏅 Open Source & Achievements
