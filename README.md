@@ -21,7 +21,7 @@
 
 ```javascript
 const avdhut = {
-  stack    : ["React", "Node.js", "Express", "MongoDB", "MySQL"],
+  stack    : ["React", "Node.js", "Express", "MongoDB", "MySQL","Java"],
   passion  : "Open Source & Community Building",
   events   : ["GSSoC 2025 🌐", "Hacktoberfest 🎃, ECWoC'26"],
   currently: "Building scalable web apps & contributing to open source",
