@@ -74,7 +74,7 @@ const avdhut = {
 | --------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 🥇 **Elite Coders Winter of Code — Rank #17** | 2026    | Open Source Program                                                                                                       |
 | 🎃 **Hacktoberfest Contributor**              | 2025    | [![Badge](https://img.shields.io/badge/Holopin-View%20Badge-blueviolet?style=flat-square)](https://holopin.io/@avdhut400) |
-| 🌐 **GSSoC — Appreciation Certificate**                      | 2025    | Active Contributor                                                                                                        |
+| 🌐 **GSSoC — Appreciation Certificate**                      | 2025    | Open Source Program                                                                                                         |
 | 🪩 **Holopin Board**                          | —       | [![Board](https://img.shields.io/badge/Holopin-My%20Badges-blue?style=flat-square)](https://holopin.io/@avdhut400)        |
 
 </div>
